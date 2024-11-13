@@ -1,4 +1,4 @@
-#URL: https://signate.jp/competitions/104
+#URL: https://signate.jp/competitions/100
 #train.zipとtest.zipをディレクトリに格納（解凍は不要）
 
 import os
